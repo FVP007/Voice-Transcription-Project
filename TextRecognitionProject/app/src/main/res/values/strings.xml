@@ -1,0 +1,17 @@
+<resources>
+    <string name="record_button_description_ready">Pronto para gravar</string>
+    <string name="translation_placeholder_text">Texto Traduzido</string>
+    <string name="app_name" translatable="false">TextRecognitionProject</string>
+    <string name="default_text" translatable="false">Pressione o botão para começar a falar...</string>
+    <string name="transcription_placeholder_text">Toque no microfone para começar a transcrever a voz.</string>
+    <string name="record_button_description">Iniciar gravação de áudio</string>
+    <string name="record_button_description_listening">Parar gravação de áudio</string>
+    <string name="permission_denied_message">Permissão de gravação de áudio negada.</string>
+    <string name="error_network_timeout">Tempo limite de rede. Verifique sua conexão.</string>
+    <string name="error_network">Erro de rede. Tente novamente mais tarde.</string>
+    <string name="error_no_match">Não consegui entender o que você disse. Tente novamente.</string>
+    <string name="error_permissions">Permissões insuficientes para reconhecimento de voz.</string>
+    <string name="error_speech_timeout">Você não falou nada. Tente novamente.</string>
+    <string name="error_unknown">Ocorreu um erro desconhecido.</string>
+    <string name="speaking_status">Falando</string>
+</resources>
